@@ -11,3 +11,5 @@ This will show the world map and you can check corona cases around the map Also 
 when you click Cases, Recovered, Deaths infoboxes littlely map changes according to the infoboxes that data.
 
 I listed the countries according to the cases.
+
+![1Capture](https://user-images.githubusercontent.com/72302495/122664965-26d0a280-d1c2-11eb-9613-4cb0e86a14c8.PNG)
